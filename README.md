@@ -8,6 +8,6 @@ Awesome Lists of Machine Learning
 * [Monthly Series - Machine Learning Top 10 Open Source Projects from MyBridge](https://github.com/Mybridge/machine-learning-open-source)
 
 ## Supervised Learning
-* [Everything on Recurrent Nural Networks](https://github.com/kjw0612/awesome-rnn)
+* [Everything on Recurrent neural network](https://github.com/kjw0612/awesome-rnn)
 
 ## Unsupervised Learning
